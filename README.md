@@ -10,3 +10,8 @@ Dia 2:
 
 Foram abordados conceitos de Javascript, promises, API...
 Construiu a página de cadastro de ponto de coleta com formulário e api para auxílio no preenchimento do endereço.
+
+Dia 3:
+
+Finalizou a página de cadastro de ponto de coleta, seleção de materiais coletados.
+Construiu a página de resultados de pontos de coleta.
