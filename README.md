@@ -15,3 +15,8 @@ Dia 3:
 
 Finalizou a página de cadastro de ponto de coleta, seleção de materiais coletados.
 Construiu a página de resultados de pontos de coleta.
+
+Dia 4:
+
+Construiu o backend do servidor.
+Reescreveu as views para utilização do Nunjucks.
