@@ -20,3 +20,9 @@ Dia 4:
 
 Construiu o backend do servidor.
 Reescreveu as views para utilização do Nunjucks.
+
+Dia 5:
+
+Abordou SQL.
+Substituiu os dados estáticos por valores dinâmicos alimentados pelo banco de dados.
+Utilizou método POST para envio dos dados do formulário através do body, de maneira que os dados não ficassem tão explícitos.
